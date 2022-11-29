@@ -4,9 +4,9 @@
 
 **Notebook** pour le projet "Social network Ads Streamlit App".
 
-Notebook files : https://github.com/DavidScanu/social-network-ads-nb
-App files : https://github.com/DavidScanu/social-network-ads-nb
-Streamlit app : https://social-network-ads.streamlit.app/
+* Notebook files : https://github.com/DavidScanu/social-network-ads-nb
+* App files : https://github.com/DavidScanu/social-network-ads-nb
+* Streamlit app : https://social-network-ads.streamlit.app/
 
 En tant que Développeur IA, un site vient vous voir avec une problématique de savoir si l’affiche d’une publicité d’un produit XYZ a la chance ou pas d’attirer l’utilisateur et par la suite d’aboutir à une commande par ce dernier. Pour cela, une dataset a été réalisée reprenant des utilisateurs avec leurs caractéristiques et une colonne purchased indiquant si l’utilisateur a commandé ce produit ou pas.
 
